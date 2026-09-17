@@ -103,22 +103,22 @@ body{
   background-image: url('../img/background-banner.webp');
 }
 .bgimg-web{
-  background: url(../img/background-web.png);
+  background: url(../img/background-web.webp);
 }
 .bgimg-win{
-  background: url(../img/background-win.jpg);
+  background: url(../img/background-win.webp);
 }
 .bgimg-pra{
-  background: url(../img/background-pra.jpg);
+  background: url(../img/background-pra.webp);
 }
 .bgimg-pro{
-  background: url(../img/background-pro.png);
+  background: url(../img/background-pro.webp);
 }
 .bgimg-digit{
-  background: url(../img/background-digit.jpg);
+  background: url(../img/background-digit.webp);
 }
 .bgimg-footer{
-  background-image: url('../img/background-footer.jpg');
+  background-image: url('../img/background-footer.webp');
 }
 
 .parallex{
