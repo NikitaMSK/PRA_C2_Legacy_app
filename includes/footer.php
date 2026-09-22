@@ -5,16 +5,16 @@
 			<div class="adres">
 				<ul>
 					<li>
-						<p>Adresgegevens
-							Terheijdenseweg 350
+						<p><strong>Adresgegevens</strong><br>
+							Terheijdenseweg 350<br>
 							4826 AA Breda</p>
 					</li>
 					<li>
-						<p>Telefoonnummer
+						<p><strong>Telefoonnummer</strong><br>
 							076-5733444</p>
 					</li>
 					<li>
-						<p>E-mailadres
+						<p><strong>E-mailadres</strong><br>
 							<a href="mailto:radiuscollege@curio.nl">radiuscollege@curio.nl</a>
 						</p>
 					</li>
